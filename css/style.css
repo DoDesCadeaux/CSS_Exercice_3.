@@ -75,7 +75,7 @@ h3 {
 }
 
 .bg-4 {
-    background: linear-gradient(0.12turn, rgb(255, 80, 0), lime);
+    background: linear-gradient(0.125turn, rgb(255, 80, 0), lime);
 }
 
 /* fin exo 02 background*/
@@ -150,6 +150,8 @@ h3 {
     background-image: url(../images/bg_image.jpg);
     background-attachment: fixed;
     background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 
